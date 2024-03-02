@@ -1,4 +1,5 @@
 Abstract:
+
 In this project, we utilized K-means clustering to generate a spatial zoning map of groundwater quality in Tehran for a one-month period in the Iranian calendar year 1394. 
 Groundwater quality is a critical aspect of environmental monitoring, with implications for public health and ecosystem integrity. By applying clustering techniques to groundwater quality data, we aimed to identify spatial patterns and zones of similar water quality characteristics within the study area.
 We collected groundwater quality data from various monitoring wells across Tehran for the selected time period using https://stu.wrm.ir/login.asp . The dataset included parameters such as pH, electrical conductivity, concentrations of various ions, and other relevant indicators of water quality. Using Python programming language and Jupyter Notebook environment, we implemented K-means clustering to group monitoring wells into clusters based on the similarity of their groundwater quality attributes.
